@@ -1,6 +1,10 @@
 # kong-plugin-file-log-extended
 Extension of the built-in Kong file-log plugin
 
+## Installation
+
+luarocks install https://raw.githubusercontent.com/daxko/kong-plugin-file-log-extended/master/kong-plugin-file-log-extended-1.0-1.rockspec
+
 ## Configuration
 
 Configuring the plugin is straightforward, you can add it on top of an [API][api-object] (or [Consumer][consumer-object]) by executing the following request on your Kong server:
