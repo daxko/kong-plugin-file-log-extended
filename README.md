@@ -4,7 +4,7 @@ Extension of the built-in Kong file-log plugin
 ## Installation
 
 ```bash
-luarocks install https://raw.githubusercontent.com/daxko/kong-plugin-file-log-extended/master/kong-plugin-file-log-extended-1.0-1.rockspec
+luarocks install https://raw.githubusercontent.com/daxko/kong-plugin-file-log-extended/master/kong-plugin-file-log-extended-1.2-1.rockspec
 ```
 
 ## Configuration
